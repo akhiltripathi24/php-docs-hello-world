@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/22b34d33-417a-49b0-a11c-90be2cf8bc6b/resourceGroups/learn-dfe02300-db3a-42bb-93a0-dc56a15b1775/providers/Microsoft.Web/sites/phpaugustfirst",
+    "appService.deploySubpath": "."
+}
